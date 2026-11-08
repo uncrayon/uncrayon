@@ -19,7 +19,7 @@ A video-quality evaluation prototype combining OCR, temporal features, and XGBoo
 
 Published evaluation uses a small synthetic dataset; broader real-video validation remains open. Source-available under PolyForm Noncommercial.
 
-### [Separatrix](https://github.com/uncrayon/slope-field-vizualiser)
+### [Separatrix](https://github.com/uncrayon/separatrix)
 
 A Rust, React, TypeScript, and Tauri desktop app for exploring dynamical systems, including phase portraits, bifurcations, and Lyapunov spectra. Available for Windows, macOS, and Linux.
 
