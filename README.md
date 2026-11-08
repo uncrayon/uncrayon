@@ -1,5 +1,3 @@
-# Ulises Rayón
-
 I build local AI systems and scientific software, focusing on inference efficiency, evaluation, and research grounded in working systems.
 
 ## Selected projects
